@@ -4,4 +4,5 @@ import(
 )
 func hello(){
 	fmt.Println("hello, server")
+	fmt.Println("are you ok")
 }
